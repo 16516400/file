@@ -1,4 +1,4 @@
-# file
+
 var annualLeave = 30
 var BobRemainingDays = 12
 var AliceRemainingDays = 28
